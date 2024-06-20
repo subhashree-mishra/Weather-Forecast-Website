@@ -9,3 +9,5 @@ Responsive Design: Employed CSS techniques to ensure the website is fully respon
 
 
 Technology used: HTML, CSS, Javascript, OpenWeatherMap API.
+
+Deployed Website Link:https://weather-forecast-website-by-shree.netlify.app/
